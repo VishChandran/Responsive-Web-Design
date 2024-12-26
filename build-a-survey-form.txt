@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-  <h1 id="title">freeCodeCamp Survey Form</h1>
+  <h1 id="title">Main Coders Survey Form</h1>
   <p id="description">Thank you for taking the time to help us improve the platform</p>
 <form id="survey-form">
   <fieldset>
@@ -35,7 +35,7 @@
 </fieldset>
 
 <fieldset>
-<label for="feature">What is your favorite feature of freeCodeCamp?<select id="feature" name="feature">
+<label for="feature">What is your favorite feature of Main Coders Survey?<select id="feature" name="feature">
 <option value="">Select an option</option><option value="1">Challenges</option><option value="2">Projects</option><option value="3">Community</option><option value="4">Open Source</option></select></label>
 </fieldset>
 
